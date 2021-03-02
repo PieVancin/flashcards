@@ -1,0 +1,41 @@
+body {
+    background-image: url('world.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-family: 'Comfortaa', cursive;
+}
+
+p {
+    position: relative;
+    font-family: 'Kumbh Sans', sans-serif;
+    text-align: center;
+    font-size: 20px;
+
+}
+
+.flex_container {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    flex-wrap: wrap;
+    justify-items: center;
+
+}
+
+.flex_item {
+    justify-items: center;
+    border-radius: 15px;
+    padding: 10px;
+    font-family: 'Comfortaa', cursive;
+    width: 150px;
+    height: 150px;
+    margin-bottom: 5%;
+    background-color: lightskyblue ;
+}
+
+h1 {
+    font-family: 'Comfortaa', cursive;
+    padding: 20px;
+    border-radius: 25px;
+    background: cornflowerblue;
+    text-align: center;
+}
