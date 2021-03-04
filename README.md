@@ -1,2 +1,2 @@
 # flashcards
- A useful memory-aid application using using basic HTML and CSS
+ A useful memory-aid application using basic HTML and CSS
